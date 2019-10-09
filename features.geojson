@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Onsite working venue",
+        "descripton": "The location of my first onsite work"
+      },
+      "geometry": {
+        "coordinates": [
+          3.529989,
+          6.560716
+        ],
+        "type": "Point"
+      },
+      "id": "101f88e0eecd15d5aa4598d7f82ae159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "my first working environment",
+        "description": "I had my first internship work here"
+      },
+      "geometry": {
+        "coordinates": [
+          3.529217,
+          6.570436
+        ],
+        "type": "Point"
+      },
+      "id": "90d949ad8f6ffee74c3a1c3d00fa26a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "where i schooled",
+        "description": "I went through my basic school here"
+      },
+      "geometry": {
+        "coordinates": [
+          3.525784,
+          6.580583
+        ],
+        "type": "Point"
+      },
+      "id": "bd9520c7115939bdc8f2e7827954d3d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "where i live",
+        "description": "I spent all my live living at the particular local government"
+      },
+      "geometry": {
+        "coordinates": [
+          3.517372,
+          6.590047
+        ],
+        "type": "Point"
+      },
+      "id": "e5360598421d40a9d3c5d45ed8f29c16"
+    }
+  ],
+  "type": "FeatureCollection"
+}
